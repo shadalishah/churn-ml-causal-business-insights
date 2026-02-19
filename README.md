@@ -65,6 +65,3 @@ This dataset is synthetically generated for educational and portfolio purposes o
 
 **Shad Ali Shah** — Data Scientist & Economist
 
-
-
-Kaggle: https://kaggle.com/yourprofile
