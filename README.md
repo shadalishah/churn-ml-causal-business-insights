@@ -55,17 +55,6 @@ Customer churn is a critical challenge for subscription-based businesses. This p
 
 ---
 
-## Project Files
-
-| File | Description |
-|------|-------------|
-| customer_churn_analysis.ipynb | Main notebook |
-| high_risk_customers.csv | High risk predictions |
-| medium_risk_customers.csv | Medium risk predictions |
-| low_risk_customers.csv | Low risk predictions |
-
----
-
 ## Disclaimer
 
 This dataset is synthetically generated for educational and portfolio purposes only. It does not represent real customer data.
